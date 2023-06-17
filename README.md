@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frameworks, New technologies.**
 - 💻 Check out a couple of my simple projects here: 
-     <a href="https://javiergruelas.github.io/Magic8Ball/" target="blank">Magic 8 Ball</a>
+     <a href="https://javiergruelas.github.io/Magic8Ball/" target="_blank">Magic 8 Ball</a>
 
 - 📫 How to reach me **javiergruelas@gmail.com**
 
