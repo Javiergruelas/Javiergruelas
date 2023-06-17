@@ -1,0 +1,53 @@
+#hero-section h1 {
+    color: #9AD1D4;
+  }
+
+  /* SIZZLE slight transparent border */
+  #hero-section img {
+    border: 4px solid rgba(154, 209, 212, 0.5);
+  }
+ 
+/* Used linear Gradient to make it readable! */
+  #hero-section {
+    padding: 30px;
+    width:100%;
+    height: auto;
+    background-image: 
+    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url('img/seattle.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    background-attachment: fixed;
+  }
+  
+
+  p {
+    color: #9AD1D4;
+  }
+
+  h5 {
+    color: #9AD1D4;
+  }
+
+  svg {
+    color: #9AD1D4;
+  }
+
+  #caro {
+    height: fit-content;
+    width: 80%;
+    margin: 0 auto;
+  }
+
+  #inspiration-section {
+    padding-bottom: 20px;
+  }
+/* SIZZLE adding styled hrs to break the sections! */
+  hr {
+    border: 0;
+    height: 3px;
+    background: #9AD1D4;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+    margin: 50px 10px 30px 10px;
+}
