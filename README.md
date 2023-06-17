@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Javier Ruelas</h1>
 <h3 align="center">A passionate software engineering student always looking to learn new things!</h3>
 
-<p align="left"> <a href="https://twitter.com/javiergruelas" target="blank"><img src="https://img.shields.io/twitter/follow/javiergruelas?logo=twitter&style=for-the-badge" alt="javiergruelas" /></a> </p>
-
 - 🌱 I’m currently learning **Frameworks, New technologies.**
 - 💻 Check out a couple of my simple projects here: 
      <a href="https://javiergruelas.github.io/Magic8Ball/" target="blank">Magic 8 Ball</a>
