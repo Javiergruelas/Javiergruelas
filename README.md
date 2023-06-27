@@ -2,8 +2,12 @@
 <h3 align="center">A passionate software engineering student always looking to learn new things!</h3>
 
 - 🌱 I’m currently learning **Frameworks, New technologies.**
-- 💻 Check out a couple of my simple projects here: 
+- 💻 Check out a couple of my simple projects here:
+     <br>
+     <a href="https://javiergruelas.github.io/MatchingGame/" target="blank">Matching Game</a>
+     <br>
      <a href="https://javiergruelas.github.io/Magic8Ball/" target="blank">Magic 8 Ball</a>
+     
 
 - 📫 How to reach me **javiergruelas@gmail.com**
 
