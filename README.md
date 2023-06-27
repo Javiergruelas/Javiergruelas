@@ -1,3 +1,4 @@
+<base target="_blank">
 <h1 align="center">Hi 👋, I'm Javier Ruelas</h1>
 <h3 align="center">A passionate software engineering student always looking to learn new things!</h3>
 
