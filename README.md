@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning **Frameworks, New technologies.**
 - 💻 Check out a couple of my simple projects here:
      <br>
+     <a href="https://javiergruelas.github.io/MatchingGame/" target="_blank">Basic Javascript Project Compilation </a>
+     <br>
      <a href="https://javiergruelas.github.io/MatchingGame/" target="_blank"> Matching Game </a>
      <br>
      <a href="https://javiergruelas.github.io/Magic8Ball/" target="_blank"> Magic 8 Ball </a>
