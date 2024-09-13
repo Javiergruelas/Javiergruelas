@@ -21,15 +21,12 @@
      <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="40" height="40"/> 
      <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java" width="40" height="40"/> 
      <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40"/>
-     <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="40" height="40"/>
 <br>
      <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="40" height="40"/>
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
 <br>
      <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode" width="40" height="40"/>
      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-     <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-cs6.svg" alt="photoshop" width="40" height="40"/>
 
      
 
