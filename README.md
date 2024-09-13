@@ -14,12 +14,6 @@
 
 - 📫 How to reach me **javiergruelas@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/javiergruelas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="javiergruelas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/javiergruelas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javiergruelas" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
      <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="40" height="40"/> 
@@ -36,8 +30,7 @@
      <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode" width="40" height="40"/>
      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
      <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-cs6.svg" alt="photoshop" width="40" height="40"/>
-     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
-     <img src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg" alt="notion" width="40" height="40"/>
+
      
 
 
